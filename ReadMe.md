@@ -1,6 +1,6 @@
 # Promisechain [![Build Status](https://travis-ci.org/georgeOsdDev/promisechain.svg?branch=master)](https://travis-ci.org/georgeOsdDev/promisechain) [![npm version](https://badge.fury.io/js/promisechain.svg)](http://badge.fury.io/js/promisechain)
 
-[![Sauce Test Status](https://saucelabs.com/browser-matrix/georgeosddev_promisechain.svg)](https://saucelabs.com/u/georgeosddev_promisechain)
+[![Sauce Test Status](https://saucelabs.com/browser-matrix/promisechain.svg)](https://saucelabs.com/u/promisechain)
 
 #### Chain-able promise with functional programming style.
 
@@ -46,7 +46,7 @@ bower isntall promisechain
 ```
 
 ```html
-<script src="./bower_components/promisechain/lib/promisechain_bundle.js"></script>
+<script src="./bower_components/promisechain/dist/promisechain_bundle.js"></script>
 ```
 `Promisechain` will be installed to global.
 
