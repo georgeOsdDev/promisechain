@@ -167,7 +167,7 @@ Generally it will return empty array `[]`. So promise chain will not be rejected
   );
   ```
 
-  * #### `reduce`
+* #### `reduce`
 
   An alias of `underscore`'s' `reduce`.
 
@@ -181,7 +181,7 @@ Generally it will return empty array `[]`. So promise chain will not be rejected
   );
   ```
 
-  * #### `first`, `head` and `take`
+* #### `first`, `head` and `take`
 
   An alias of `underscore`'s' `first`.
 
@@ -192,7 +192,8 @@ Generally it will return empty array `[]`. So promise chain will not be rejected
     function(v){console.log(v);}  // => 1,
   );
   ```
-  * #### `initial`
+
+* #### `initial`
 
   An alias of `underscore`'s' `initial`.
 
@@ -203,7 +204,8 @@ Generally it will return empty array `[]`. So promise chain will not be rejected
     function(v){console.log(v);}  // => [1,2,3,4],
   );
   ```
-  * #### `last`
+
+* #### `last`
 
   An alias of `underscore`'s' `last`.
 
@@ -215,7 +217,7 @@ Generally it will return empty array `[]`. So promise chain will not be rejected
   );
   ```
 
-  * #### `rest`, `tail`, `drop`
+* #### `rest`, `tail`, `drop`
 
   An alias of `underscore`'s' `rest`.
 
@@ -227,7 +229,7 @@ Generally it will return empty array `[]`. So promise chain will not be rejected
   );
   ```
 
-  * #### `keys`
+* #### `keys`
 
   An alias of `underscore`'s' `keys`.
 
@@ -242,7 +244,7 @@ Generally it will return empty array `[]`. So promise chain will not be rejected
   );
   ```
 
-  * #### `values`
+* #### `values`
 
   An alias of `underscore`'s' `values`.
 
@@ -257,7 +259,7 @@ Generally it will return empty array `[]`. So promise chain will not be rejected
   );
   ```
 
-  * #### `values`
+* #### `values`
 
   An alias of `underscore`'s' `values`.
 
