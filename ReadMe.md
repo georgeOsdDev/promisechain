@@ -9,10 +9,10 @@ But its writing is a little annoying.
 This library enable more lazy way.
 
 ```javascript
-Promise(function(resolve, reject){
+var p = Promise(function(resolve, reject){
   setTimeout(function(){
     resolve([1,2,3,4,5]);
-  }, 10)
+  }, 10);
 })
 
 Promisechain.chainable(p)
